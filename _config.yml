@@ -13,8 +13,8 @@ plugins:
 
 author:
   name: "Galia Appel"
-  avatar: "/assets/images/profile_small.png"
-  bio: "..."
+  avatar: "/assets/images/profile.JPG"
+  bio: "\"In God we trust. All others must bring data.\" — W. Edwards Deming"
   location: Rehovot, Israel
   links:
     - label: "GitHub"
