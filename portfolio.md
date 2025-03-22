@@ -5,7 +5,9 @@ author_profile: true
 permalink: /portfolio/
 ---
 
-
+**Audible Library Dashboard**
+Transformed my personal Audible library into an interactive Power BI dashboard, visualizing purchase habits, favorite authors and narrators, most popular categories and a book picker.
+<i class="fa-solid fa-terminal">[Link]({https://app.powerbi.com/view?r=eyJrIjoiMjgzNmRlZjAtNzZhMi00N2E3LTk3MjEtZTNjZGE5MmM2NzAwIiwidCI6ImU5NzdhOTA3LWVjNjMtNDY1Ni1hMTg2LTUyMmU3Mzk0ZDUzNCIsImMiOjl9&pageName=f4b5576fa73a707a687c)
 
 
 <!-- 1. **Building a Hebrew Semantic Role Labeling Lexical Resource from Parallel Movie Subtitles** (LREC 2020)  
