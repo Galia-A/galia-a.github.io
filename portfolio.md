@@ -15,7 +15,7 @@ Transformed my personal Audible library into an interactive Power BI dashboard, 
 
 Conducted a data-driven product range analysis, identifying key trends and insights to support strategic product management decisions.
 
-<i class="far fa-file-pdf"></i> [Slides](https://raw.githubusercontent.com/Galia-A/product-range-analysis-project/refs/heads/main/Final%20Project%20-%20Galia%20Appel.pdf) &nbsp; &nbsp; <i class="fab fa-github"></i> [GitHub](https://github.com/Galia-A/product-range-analysis-project/tree/main)
+<i class="far fa-file-pdf"></i> [Slides](https://github.com/Galia-A/product-range-analysis-project/blob/main/Final%20Project%20-%20Galia%20Appel.pdf) &nbsp; &nbsp; <i class="fab fa-github"></i> [GitHub](https://github.com/Galia-A/product-range-analysis-project/tree/main)
 
 ## SQL Data Analysis for a Book App
 
